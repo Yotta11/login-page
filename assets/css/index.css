@@ -186,11 +186,17 @@ p{
 .login_image{
     background-color:#00ff00;
 }
+body{
+    font-size:2rem;
+}
 }
 @media(max-width:480px){
     head{
         font-size:1.2rem;
         padding:0.5rem;
     
+    }
+    body{
+        font-size:1.5rem;
     }
 }
