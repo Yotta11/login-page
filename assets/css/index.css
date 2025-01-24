@@ -55,11 +55,11 @@ form{
     flex:1;
     height:80vh;
     margin-left:3rem;
-    /* background-color: aquamarine; */
+    
     margin-top:5rem;
 }
 .login_form{
-    /* width:100vw; */
+    
     height:87%;
     flex:1;
     padding-left: 15rem;  
@@ -67,23 +67,18 @@ form{
   flex-direction: column; 
   justify-content:start;
   padding-top:2rem;
-/* border:solid yellow 1px; */
+
 padding-left:0.5rem;
 margin-right:5rem;
 margin-top:4.7rem;
 
-    /* background-image:url(3d-hygge-young-woman-working-at-the-table-wearing-vr-glasses1.svg); */
    
    
    font-size:3rem;
 }
 
 
-.Email,.Password{
-    display:flex;
-    flex-direction:column;
 
-}
 .password_input , .email_input {
     width:200%;
     border: solid var(--gris) 1px;
@@ -116,9 +111,9 @@ button{
     border-radius:20px;
     font-size:3rem;
     display:flex;
-    /* align-items:center; */
+    
     justify-content:center;
-    text-align:center;
+    
     padding-top:10px;
     margin-left:350px;
     background-color: var(--lien-color);
